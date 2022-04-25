@@ -26,7 +26,7 @@ At best case we may find ourselves in a situation where media sources becomes so
 Below is a proposed architecture that would behave similar to private-public RSA encryption alongside TLS SSL certification standards.  
 
 
-![Validation Archtecture](msvnArchitecture.png)  
+![Validation Archtecture](msvnBlue.png)  
  
 1. User generates Media on their device
 2. The device runs `media encryption software` that is designed to be low intensity, high performance and uses algorithmic encoding of specific media features, along with other secrets that are defined by the `Communion Peers`. 
