@@ -49,3 +49,22 @@ A collection of authority bodies that are distributed accross the world and are 
 Just like all other forms of respected institutions trust has to be gained over time, designated custodians should be rotated and randomised open source regulatory deep testing should be frequent and transparent.   
 
 
+
+
+# Principles  
+
+- Certification and peer approval network
+- Degrees of Falibility: confidence rating
+- Token recovery system
+- Must be fast
+
+
+
+# Ideas
+
+- Communions are geospecific, so they allow faster upload and approval times
+- Rotation Communions decide schemas for other communions picked at random or crowd selection
+- Each step should add more info to encrypted value rather than less. 
+- Consider request/response body
+- Local encoder updates to boost auth rating but still can validate old
+- Communions can outsource compute to block chain
